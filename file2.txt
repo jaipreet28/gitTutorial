@@ -4,8 +4,13 @@ line3
 line4
 line5
 line6
+<<<<<<< HEAD
+line7asdf
+line8ChangedAgain
+=======
 line7
 line8ChangedAgainByp2
+>>>>>>> 722111a3ff00694016f6d055345e89d3775046e2
 line9
 change 10 done
 change done in line 11
